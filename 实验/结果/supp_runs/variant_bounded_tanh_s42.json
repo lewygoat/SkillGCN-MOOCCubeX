@@ -1,0 +1,13 @@
+{
+  "mode": "variant_bounded_tanh",
+  "seed": 42,
+  "best_epoch": 11,
+  "epochs_ran": 19,
+  "gate_best": 0.9351,
+  "gate_at_best": 0.9351,
+  "test_at_best": {
+    "NDCG@10": 0.17362,
+    "HR@10": 0.69709,
+    "MRR": 0.33005
+  }
+}

@@ -1,0 +1,248 @@
+pair_id,standard,stratum,skill_id,skill_text,concept,sim,rater_a,rater_b,audit_note
+P001,1+X Web Front-End,"[0.55,1.00)",SK0017,利用存储过程优化浏览器渲染管线与网络传输报文解析效率,存储过程,0.51709,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P002,1+X Web Front-End,"[0.48,0.55)",SK0252,利用并发控制优化浏览器渲染管线与网络传输报文解析效率,算符优先分析,0.515719,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P003,1+X Web Front-End,"[0.55,1.00)",SK0063,结合知识蒸馏编写模块化组件接口并处理跨域通信异常,知识蒸馏,0.519597,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P004,1+X Web Front-End,"[0.55,1.00)",SK0096,基于游标实现前端异步事件绑定与客户端交互逻辑控制,游标,0.521134,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P005,1+X Web Front-End,"[0.55,1.00)",SK0058,结合拓扑排序原理编写模块化组件接口并处理跨域通信异常,拓扑排序,0.51755,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P006,1+X Web Front-End,"[0.55,1.00)",SK0197,利用类型推导优化浏览器渲染管线与网络传输报文解析效率,类型推导,0.519022,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P007,1+X Web Front-End,"[0.55,1.00)",SK0148,结合贝塞尔曲线编写模块化组件接口并处理跨域通信异常,贝塞尔曲线,0.52496,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P008,1+X Web Front-End,"[0.55,1.00)",SK0001,基于服务数据单元实现前端异步事件绑定与客户端交互逻辑控制,数据,0.51479,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P009,1+X Web Front-End,"[0.55,1.00)",SK0082,利用多道程序优化浏览器渲染管线与网络传输报文解析效率,多道程序,0.515873,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P010,1+X Web Front-End,"[0.55,1.00)",SK0136,基于后缀数组实现前端异步事件绑定与客户端交互逻辑控制,后缀数组,0.519056,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P011,1+X Web Front-End,"[0.55,1.00)",SK0080,运用标记语言完成响应式前端页面结构设计与盒模型构建,标记语言,0.516762,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P012,1+X Web Front-End,"[0.55,1.00)",SK0152,利用哲学家进餐问题优化浏览器渲染管线与网络传输报文解析效率,哲学家进餐问题,0.521942,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P013,1+X Web Front-End,"[0.55,1.00)",SK0008,结合数据完整性编写模块化组件接口并处理跨域通信异常,数据完整性,0.517175,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P014,1+X Web Front-End,"[0.55,1.00)",SK0125,运用凸优化基础完成响应式前端页面结构设计与盒模型构建,凸优化基础,0.518157,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P015,1+X Web Front-End,"[0.55,1.00)",SK0206,基于RESTful架构实现前端异步事件绑定与客户端交互逻辑控制,RESTful架构,0.51691,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P016,1+X Web Front-End,"[0.55,1.00)",SK0048,结合会话管理编写模块化组件接口并处理跨域通信异常,会话管理,0.518473,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P017,1+X Web Front-End,"[0.55,1.00)",SK0120,运用生成函数完成响应式前端页面结构设计与盒模型构建,生成函数,0.517201,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P018,1+X Web Front-End,"[0.48,0.55)",SK0121,基于最大流最小割实现前端异步事件绑定与客户端交互逻辑控制,最大似然估计,0.517296,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P019,1+X Web Front-End,"[0.55,1.00)",SK0051,基于消息传递实现前端异步事件绑定与客户端交互逻辑控制,消息传递,0.518996,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P020,1+X Web Front-End,"[0.55,1.00)",SK0016,基于故障恢复实现前端异步事件绑定与客户端交互逻辑控制,故障恢复,0.5204,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P021,1+X Web Front-End,"[0.35,0.48)",SK0156,基于熔断降级机制实现前端异步事件绑定与客户端交互逻辑控制,动态链接,0.426828,否,否,Low cosine similarity; skill clause and course concept belong to distinct subdomains
+P022,1+X Web Front-End,"[0.55,1.00)",SK0170,运用循环冗余校验完成响应式前端页面结构设计与盒模型构建,循环冗余校验,0.518513,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P023,1+X Web Front-End,"[0.55,1.00)",SK0094,应用事务处理完成Web应用状态同步、路由守卫与安全校验,事务处理,0.518437,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P024,1+X Web Front-End,"[0.55,1.00)",SK0151,基于引用计数实现前端异步事件绑定与客户端交互逻辑控制,引用计数,0.520177,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P025,1+X Web Front-End,"[0.55,1.00)",SK0110,运用指令集架构完成响应式前端页面结构设计与盒模型构建,指令集架构,0.517089,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P026,1+X Web Front-End,"[0.55,1.00)",SK0184,应用线性回归完成Web应用状态同步、路由守卫与安全校验,线性回归,0.518677,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P027,1+X Web Front-End,"[0.55,1.00)",SK0188,结合布尔代数编写模块化组件接口并处理跨域通信异常,布尔代数,0.519491,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P028,1+X Web Front-End,"[0.55,1.00)",SK0221,基于元学习实现前端异步事件绑定与客户端交互逻辑控制,元学习,0.51742,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P029,1+X Web Front-End,"[0.55,1.00)",SK0018,结合Raft算法编写模块化组件接口并处理跨域通信异常,Raft算法,0.515149,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P030,1+X Web Front-End,"[0.48,0.55)",SK0141,基于残差连接实现前端异步事件绑定与客户端交互逻辑控制,互斥锁,0.51282,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P031,1+X Web Front-End,"[0.55,1.00)",SK0160,运用遍历完成响应式前端页面结构设计与盒模型构建,遍历,0.51858,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P032,1+X Web Front-End,"[0.48,0.55)",SK0091,基于无线局域网实现前端异步事件绑定与客户端交互逻辑控制,以太网,0.515354,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P033,1+X Web Front-End,"[0.48,0.55)",SK0046,基于拉格朗日乘数法实现前端异步事件绑定与客户端交互逻辑控制,BM25算法,0.512384,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P034,1+X Web Front-End,"[0.48,0.55)",SK0113,结合递归调用编写模块化组件接口并处理跨域通信异常,进程调度,0.513857,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P035,1+X Web Front-End,"[0.55,1.00)",SK0081,基于代码优化实现前端异步事件绑定与客户端交互逻辑控制,代码优化,0.519135,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P036,1+X Web Front-End,"[0.55,1.00)",SK0238,结合互连网络编写模块化组件接口并处理跨域通信异常,互连网络,0.517968,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P037,1+X Web Front-End,"[0.55,1.00)",SK0249,应用海明码完成Web应用状态同步、路由守卫与安全校验,海明码,0.522658,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P038,1+X Web Front-End,"[0.55,1.00)",SK0220,运用自注意力机制原理完成响应式前端页面结构设计与盒模型构建,自注意力机制原理,0.521715,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P039,1+X Web Front-End,"[0.55,1.00)",SK0247,利用滑动窗口优化浏览器渲染管线与网络传输报文解析效率,滑动窗口,0.519209,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P040,1+X Web Front-End,"[0.55,1.00)",SK0073,结合管程原理编写模块化组件接口并处理跨域通信异常,管程原理,0.516007,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P041,1+X Web Front-End,"[0.55,1.00)",SK0224,应用矩阵分解完成Web应用状态同步、路由守卫与安全校验,矩阵分解,0.516428,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P042,1+X Web Front-End,"[0.55,1.00)",SK0200,运用条件概率完成响应式前端页面结构设计与盒模型构建,条件概率,0.518555,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P043,1+X Web Front-End,"[0.48,0.55)",SK0142,利用对比学习优化浏览器渲染管线与网络传输报文解析效率,反向传播算法,0.513247,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P044,1+X Web Front-End,"[0.55,1.00)",SK0065,运用情感分析完成响应式前端页面结构设计与盒模型构建,情感分析,0.518246,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P045,1+X Web Front-End,"[0.48,0.55)",SK0177,利用负载均衡优化浏览器渲染管线与网络传输报文解析效率,主成分分析,0.513114,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P046,1+X Web Front-End,"[0.48,0.55)",SK0016,基于故障恢复实现前端异步事件绑定与客户端交互逻辑控制,三维重建,0.51502,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P047,1+X Web Front-End,"[0.55,1.00)",SK0256,基于反向代理实现前端异步事件绑定与客户端交互逻辑控制,反向代理,0.519134,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P048,1+X Web Front-End,"[0.55,1.00)",SK0155,运用筏式共识算法完成响应式前端页面结构设计与盒模型构建,筏式共识算法,0.52086,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P049,1+X Web Front-End,"[0.55,1.00)",SK0113,结合递归调用编写模块化组件接口并处理跨域通信异常,递归调用,0.518571,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P050,1+X Web Front-End,"[0.55,1.00)",SK0190,运用直接内存访问完成响应式前端页面结构设计与盒模型构建,直接内存访问,0.516541,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P051,1+X Web Front-End,"[0.55,1.00)",SK0244,应用强连通分量完成Web应用状态同步、路由守卫与安全校验,强连通分量,0.516023,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P052,1+X Web Front-End,"[0.55,1.00)",SK0216,基于二分图匹配原理实现前端异步事件绑定与客户端交互逻辑控制,二分图匹配原理,0.519914,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P053,1+X Web Front-End,"[0.55,1.00)",SK0177,利用负载均衡优化浏览器渲染管线与网络传输报文解析效率,负载均衡,0.520063,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P054,1+X Web Front-End,"[0.55,1.00)",SK0133,结合Slab分配器编写模块化组件接口并处理跨域通信异常,Slab分配器,0.521156,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P055,1+X Web Front-End,"[0.35,0.48)",SK0061,基于拉格朗日乘子法实现前端异步事件绑定与客户端交互逻辑控制,命令行接口,0.424086,否,否,Low cosine similarity; skill clause and course concept belong to distinct subdomains
+P056,1+X Web Front-End,"[0.55,1.00)",SK0161,基于命令行接口实现前端异步事件绑定与客户端交互逻辑控制,命令行接口,0.51839,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P057,1+X Web Front-End,"[0.55,1.00)",SK0210,运用守护进程完成响应式前端页面结构设计与盒模型构建,守护进程,0.517575,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P058,1+X Web Front-End,"[0.55,1.00)",SK0254,应用一致性哈希完成Web应用状态同步、路由守卫与安全校验,一致性哈希,0.519422,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P059,1+X Web Front-End,"[0.55,1.00)",SK0255,运用流式计算完成响应式前端页面结构设计与盒模型构建,流式计算,0.516977,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P060,1+X Web Front-End,"[0.55,1.00)",SK0216,基于二分图匹配原理实现前端异步事件绑定与客户端交互逻辑控制,二分图匹配,0.520631,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P061,1+X Web Front-End,"[0.55,1.00)",SK0156,基于熔断降级机制实现前端异步事件绑定与客户端交互逻辑控制,熔断降级机制,0.521577,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P062,1+X Web Front-End,"[0.55,1.00)",SK0012,利用数据库系统优化浏览器渲染管线与网络传输报文解析效率,数据库系统,0.509918,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P063,1+X Web Front-End,"[0.55,1.00)",SK0139,应用主成分分析原理完成Web应用状态同步、路由守卫与安全校验,主成分分析,0.519982,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P064,1+X Web Front-End,"[0.55,1.00)",SK0162,利用管程优化浏览器渲染管线与网络传输报文解析效率,管程,0.515939,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P065,1+X Web Front-End,"[0.35,0.48)",SK0092,利用多路复用优化浏览器渲染管线与网络传输报文解析效率,查询优化,0.427158,否,否,Low cosine similarity; skill clause and course concept belong to distinct subdomains
+P066,1+X Web Front-End,"[0.55,1.00)",SK0174,应用索引结构完成Web应用状态同步、路由守卫与安全校验,索引结构,0.51717,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P067,1+X Web Front-End,"[0.55,1.00)",SK0014,应用电路交换完成Web应用状态同步、路由守卫与安全校验,电路交换,0.518481,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P068,1+X Web Front-End,"[0.55,1.00)",SK0103,结合哈希函数编写模块化组件接口并处理跨域通信异常,哈希函数,0.518205,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P069,1+X Web Front-End,"[0.55,1.00)",SK0009,应用数据对象完成Web应用状态同步、路由守卫与安全校验,数据对象,0.515409,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P070,1+X Web Front-End,"[0.55,1.00)",SK0229,应用控制流图完成Web应用状态同步、路由守卫与安全校验,控制流图,0.519365,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P071,1+X Web Front-End,"[0.55,1.00)",SK0062,利用层归一化优化浏览器渲染管线与网络传输报文解析效率,层归一化,0.52083,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P072,1+X Web Front-End,"[0.55,1.00)",SK0089,应用拥塞控制完成Web应用状态同步、路由守卫与安全校验,拥塞控制,0.519448,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P073,1+X Web Front-End,"[0.55,1.00)",SK0108,结合过拟合与欠拟合编写模块化组件接口并处理跨域通信异常,过拟合与欠拟合,0.521665,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P074,1+X Web Front-End,"[0.48,0.55)",SK0229,应用控制流图完成Web应用状态同步、路由守卫与安全校验,版本控制,0.513498,待议,待议,Borderline threshold pair; broader competency context required
+P075,1+X Web Front-End,"[0.35,0.48)",SK0102,利用代码审查优化浏览器渲染管线与网络传输报文解析效率,数据可视化,0.428237,否,否,Low cosine similarity; skill clause and course concept belong to distinct subdomains
+P076,1+X Web Front-End,"[0.55,1.00)",SK0033,结合补码运算编写模块化组件接口并处理跨域通信异常,补码运算,0.521474,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P077,1+X Web Front-End,"[0.55,1.00)",SK0131,基于信号处理实现前端异步事件绑定与客户端交互逻辑控制,信号处理,0.515413,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P078,1+X Web Front-End,"[0.48,0.55)",SK0117,利用异步编程优化浏览器渲染管线与网络传输报文解析效率,无线局域网,0.512129,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P079,1+X Web Front-End,"[0.35,0.48)",SK0202,利用马尔可夫链优化浏览器渲染管线与网络传输报文解析效率,查询优化,0.421499,否,否,Low cosine similarity; skill clause and course concept belong to distinct subdomains
+P080,1+X Web Front-End,"[0.55,1.00)",SK0228,结合上下文无关文法原理编写模块化组件接口并处理跨域通信异常,上下文无关文法,0.520566,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P081,1+X Web Front-End,"[0.55,1.00)",SK0007,利用数据服务优化浏览器渲染管线与网络传输报文解析效率,数据,0.514988,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P082,1+X Web Front-End,"[0.48,0.55)",SK0175,运用分布式锁完成响应式前端页面结构设计与盒模型构建,泊松分布,0.515969,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P083,1+X Web Front-End,"[0.55,1.00)",SK0061,基于拉格朗日乘子法实现前端异步事件绑定与客户端交互逻辑控制,拉格朗日乘子法,0.519243,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P084,1+X Web Front-End,"[0.55,1.00)",SK0176,基于分布式文件系统实现前端异步事件绑定与客户端交互逻辑控制,分布式文件系统,0.519082,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P085,1+X Web Front-End,"[0.55,1.00)",SK0166,基于NP完全问题实现前端异步事件绑定与客户端交互逻辑控制,NP完全问题,0.519558,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P086,1+X Web Front-End,"[0.55,1.00)",SK0164,应用分支限界完成Web应用状态同步、路由守卫与安全校验,分支限界,0.520781,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P087,1+X Web Front-End,"[0.55,1.00)",SK0084,应用语法分析完成Web应用状态同步、路由守卫与安全校验,语法分析,0.518465,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P088,1+X Web Front-End,"[0.55,1.00)",SK0070,运用乔姆斯基谱系完成响应式前端页面结构设计与盒模型构建,乔姆斯基谱系,0.520888,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P089,1+X Web Front-End,"[0.55,1.00)",SK0159,应用加密完成Web应用状态同步、路由守卫与安全校验,加密,0.515774,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P090,1+X Web Front-End,"[0.55,1.00)",SK0101,基于装饰器模式实现前端异步事件绑定与客户端交互逻辑控制,装饰器模式,0.518957,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P091,1+X Web Front-End,"[0.55,1.00)",SK0074,应用请求分页管理完成Web应用状态同步、路由守卫与安全校验,请求分页管理,0.518704,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P092,1+X Web Front-End,"[0.55,1.00)",SK0092,利用多路复用优化浏览器渲染管线与网络传输报文解析效率,多路复用,0.518526,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P093,National Software Designer (RK),"[0.55,1.00)",RK0046,基于即时编译原理的并发同步控制、资源调度与异常处理机制,即时编译原理,0.518022,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P094,National Software Designer (RK),"[0.55,1.00)",RK0198,基于写时复制原理的并发同步控制、资源调度与异常处理机制,写时复制,0.515329,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P095,National Software Designer (RK),"[0.55,1.00)",RK0122,基于内联函数的并发同步控制、资源调度与异常处理机制,内联函数,0.518596,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P096,National Software Designer (RK),"[0.55,1.00)",RK0161,视图机制在软件系统设计中的算法实现与时空复杂度分析,视图机制,0.519959,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P097,National Software Designer (RK),"[0.55,1.00)",RK0078,基于假设检验的并发同步控制、资源调度与异常处理机制,假设检验,0.517072,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P098,National Software Designer (RK),"[0.55,1.00)",RK0202,基于遍历的并发同步控制、资源调度与异常处理机制,遍历,0.51781,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P099,National Software Designer (RK),"[0.48,0.55)",RK0134,基于读写锁的并发同步控制、资源调度与异常处理机制,逻辑卷管理,0.514296,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P100,National Software Designer (RK),"[0.48,0.55)",RK0045,符号表在软件系统设计中的算法实现与时空复杂度分析,面向对象程序设计,0.515281,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P101,National Software Designer (RK),"[0.48,0.55)",RK0209,频分复用在软件系统设计中的算法实现与时空复杂度分析,主成分分析,0.514222,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P102,National Software Designer (RK),"[0.55,1.00)",RK0066,基于跨站请求伪造的并发同步控制、资源调度与异常处理机制,跨站请求伪造,0.523233,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P103,National Software Designer (RK),"[0.55,1.00)",RK0160,事务处理的基本概念、体系结构与核心运行机制,事务处理,0.518232,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P104,National Software Designer (RK),"[0.55,1.00)",RK0092,BM25算法的基本概念、体系结构与核心运行机制,BM25算法,0.515519,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P105,National Software Designer (RK),"[0.55,1.00)",RK0037,匈牙利算法在软件系统设计中的算法实现与时空复杂度分析,匈牙利算法,0.519569,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P106,National Software Designer (RK),"[0.35,0.48)",RK0151,冲突避免的形式化规约、协议状态转换与安全性验证方法,事件驱动模型,0.426251,否,否,Low cosine similarity; skill clause and course concept belong to distinct subdomains
+P107,National Software Designer (RK),"[0.48,0.55)",RK0070,基于流水线技术的并发同步控制、资源调度与异常处理机制,线程池,0.51358,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P108,National Software Designer (RK),"[0.48,0.55)",RK0049,限流算法在软件系统设计中的算法实现与时空复杂度分析,面向对象程序设计,0.5142,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P109,National Software Designer (RK),"[0.55,1.00)",RK0143,语义分割的形式化规约、协议状态转换与安全性验证方法,语义分割,0.520268,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P110,National Software Designer (RK),"[0.55,1.00)",RK0156,有限自动机的基本概念、体系结构与核心运行机制,有限自动机,0.517657,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P111,National Software Designer (RK),"[0.55,1.00)",RK0136,红黑树原理的基本概念、体系结构与核心运行机制,红黑树,0.522919,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P112,National Software Designer (RK),"[0.55,1.00)",RK0136,红黑树原理的基本概念、体系结构与核心运行机制,红黑树原理,0.522696,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P113,National Software Designer (RK),"[0.55,1.00)",RK0108,循环冗余校验的基本概念、体系结构与核心运行机制,循环冗余校验,0.51845,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P114,National Software Designer (RK),"[0.55,1.00)",RK0083,epoll模型的形式化规约、协议状态转换与安全性验证方法,epoll模型,0.522796,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P115,National Software Designer (RK),"[0.55,1.00)",RK0024,协程机制的基本概念、体系结构与核心运行机制,协程机制,0.520197,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P116,National Software Designer (RK),"[0.55,1.00)",RK0194,基于光栅化的并发同步控制、资源调度与异常处理机制,光栅化,0.524945,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P117,National Software Designer (RK),"[0.35,0.48)",RK0142,基于布尔检索模型的并发同步控制、资源调度与异常处理机制,性能监控,0.429311,否,否,Low cosine similarity; skill clause and course concept belong to distinct subdomains
+P118,National Software Designer (RK),"[0.55,1.00)",RK0134,基于读写锁的并发同步控制、资源调度与异常处理机制,读写锁,0.518103,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P119,National Software Designer (RK),"[0.55,1.00)",RK0176,集合论的基本概念、体系结构与核心运行机制,集合论,0.519716,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P120,National Software Designer (RK),"[0.55,1.00)",RK0101,加密在软件系统设计中的算法实现与时空复杂度分析,加密,0.51735,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P121,National Software Designer (RK),"[0.55,1.00)",RK0188,单纯形法的基本概念、体系结构与核心运行机制,单纯形法,0.522078,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P122,National Software Designer (RK),"[0.55,1.00)",RK0150,基于联邦学习的并发同步控制、资源调度与异常处理机制,联邦学习,0.515736,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P123,National Software Designer (RK),"[0.55,1.00)",RK0189,高斯混合模型在软件系统设计中的算法实现与时空复杂度分析,高斯混合模型,0.524562,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P124,National Software Designer (RK),"[0.55,1.00)",RK0106,基于IP协议的并发同步控制、资源调度与异常处理机制,IP协议,0.517388,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P125,National Software Designer (RK),"[0.55,1.00)",RK0153,死锁预防在软件系统设计中的算法实现与时空复杂度分析,死锁预防,0.517205,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P126,National Software Designer (RK),"[0.55,1.00)",RK0015,数字签名的形式化规约、协议状态转换与安全性验证方法,数字签名,0.521715,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P127,National Software Designer (RK),"[0.55,1.00)",RK0130,基于DOM文档对象模型的并发同步控制、资源调度与异常处理机制,DOM文档对象模型,0.515813,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P128,National Software Designer (RK),"[0.55,1.00)",RK0137,最小生成树原理在软件系统设计中的算法实现与时空复杂度分析,最小生成树原理,0.522123,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P129,National Software Designer (RK),"[0.55,1.00)",RK0089,共轭梯度法在软件系统设计中的算法实现与时空复杂度分析,共轭梯度法,0.519862,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P130,National Software Designer (RK),"[0.55,1.00)",RK0195,正规式的形式化规约、协议状态转换与安全性验证方法,正规式,0.518665,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P131,National Software Designer (RK),"[0.48,0.55)",RK0191,策略梯度的形式化规约、协议状态转换与安全性验证方法,感兴趣区域池化,0.515069,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P132,National Software Designer (RK),"[0.55,1.00)",RK0055,广度优先搜索的形式化规约、协议状态转换与安全性验证方法,广度优先搜索,0.519804,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P133,National Software Designer (RK),"[0.55,1.00)",RK0112,内存计算的基本概念、体系结构与核心运行机制,内存计算,0.519337,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P134,National Software Designer (RK),"[0.55,1.00)",RK0117,逻辑回归在软件系统设计中的算法实现与时空复杂度分析,逻辑回归,0.519533,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P135,National Software Designer (RK),"[0.48,0.55)",RK0024,协程机制的基本概念、体系结构与核心运行机制,进程间通信,0.512842,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P136,National Software Designer (RK),"[0.55,1.00)",RK0019,TF-IDF权重的形式化规约、协议状态转换与安全性验证方法,TF-IDF权重,0.520359,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P137,National Software Designer (RK),"[0.48,0.55)",RK0083,epoll模型的形式化规约、协议状态转换与安全性验证方法,事件驱动模型,0.51394,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P138,National Software Designer (RK),"[0.55,1.00)",RK0097,抖动现象在软件系统设计中的算法实现与时空复杂度分析,抖动现象,0.523478,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P139,National Software Designer (RK),"[0.55,1.00)",RK0030,基于XML解析的并发同步控制、资源调度与异常处理机制,XML解析,0.518897,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P140,National Software Designer (RK),"[0.55,1.00)",RK0091,序列到序列模型的形式化规约、协议状态转换与安全性验证方法,序列到序列模型,0.522352,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P141,National Software Designer (RK),"[0.35,0.48)",RK0107,四次挥手的形式化规约、协议状态转换与安全性验证方法,第三范式,0.429263,否,否,Low cosine similarity; skill clause and course concept belong to distinct subdomains
+P142,National Software Designer (RK),"[0.55,1.00)",RK0052,多道程序的基本概念、体系结构与核心运行机制,多道程序,0.51951,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P143,National Software Designer (RK),"[0.55,1.00)",RK0196,寄存器分配原理的基本概念、体系结构与核心运行机制,寄存器分配,0.519164,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P144,National Software Designer (RK),"[0.55,1.00)",RK0172,函数调用栈的基本概念、体系结构与核心运行机制,函数调用栈,0.522306,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P145,National Software Designer (RK),"[0.35,0.48)",RK0203,冯诺依曼体系的形式化规约、协议状态转换与安全性验证方法,静态单赋值形式,0.425716,否,否,Low cosine similarity; skill clause and course concept belong to distinct subdomains
+P146,National Software Designer (RK),"[0.55,1.00)",RK0138,基于马尔可夫链原理的并发同步控制、资源调度与异常处理机制,马尔可夫链原理,0.517717,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P147,National Software Designer (RK),"[0.55,1.00)",RK0016,基于角色的访问控制的基本概念、体系结构与核心运行机制,基于角色的访问控制,0.519933,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P148,National Software Designer (RK),"[0.55,1.00)",RK0190,基于自注意力机制原理的并发同步控制、资源调度与异常处理机制,自注意力机制,0.518219,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P149,National Software Designer (RK),"[0.55,1.00)",RK0147,页面置换算法的形式化规约、协议状态转换与安全性验证方法,页面置换算法,0.516921,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P150,National Software Designer (RK),"[0.55,1.00)",RK0214,基于回归测试的并发同步控制、资源调度与异常处理机制,回归测试,0.516748,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P151,National Software Designer (RK),"[0.55,1.00)",RK0023,命名空间的形式化规约、协议状态转换与安全性验证方法,命名空间,0.515452,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P152,National Software Designer (RK),"[0.55,1.00)",RK0096,标记清除算法的基本概念、体系结构与核心运行机制,标记清除算法,0.5184,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P153,National Software Designer (RK),"[0.55,1.00)",RK0049,限流算法在软件系统设计中的算法实现与时空复杂度分析,限流算法,0.51706,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P154,National Software Designer (RK),"[0.48,0.55)",RK0183,文件描述符的形式化规约、协议状态转换与安全性验证方法,正则表达式匹配,0.513821,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P155,National Software Designer (RK),"[0.55,1.00)",RK0209,频分复用在软件系统设计中的算法实现与时空复杂度分析,频分复用,0.518049,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P156,National Software Designer (RK),"[0.55,1.00)",RK0009,数据对象在软件系统设计中的算法实现与时空复杂度分析,数据对象,0.518391,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P157,National Software Designer (RK),"[0.55,1.00)",RK0174,基于反射机制的并发同步控制、资源调度与异常处理机制,反射机制,0.518001,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P158,National Software Designer (RK),"[0.55,1.00)",RK0204,中间代码生成的基本概念、体系结构与核心运行机制,中间代码生成,0.5232,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P159,National Software Designer (RK),"[0.55,1.00)",RK0127,最大流最小割的形式化规约、协议状态转换与安全性验证方法,最大流最小割,0.523558,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P160,National Software Designer (RK),"[0.55,1.00)",RK0090,基于消息传递机制的并发同步控制、资源调度与异常处理机制,消息传递机制,0.521663,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P161,National Software Designer (RK),"[0.48,0.55)",RK0220,组合逻辑电路的基本概念、体系结构与核心运行机制,逻辑门电路,0.521316,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P162,National Software Designer (RK),"[0.55,1.00)",RK0142,基于布尔检索模型的并发同步控制、资源调度与异常处理机制,布尔检索模型,0.518038,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P163,National Software Designer (RK),"[0.55,1.00)",RK0056,路由算法的基本概念、体系结构与核心运行机制,路由算法,0.517432,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P164,National Software Designer (RK),"[0.55,1.00)",RK0084,自旋锁的基本概念、体系结构与核心运行机制,自旋锁,0.519942,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P165,National Software Designer (RK),"[0.55,1.00)",RK0069,独热编码在软件系统设计中的算法实现与时空复杂度分析,独热编码,0.521511,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P166,National Software Designer (RK),"[0.55,1.00)",RK0088,条件随机场的基本概念、体系结构与核心运行机制,条件随机场,0.524365,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P167,National Software Designer (RK),"[0.55,1.00)",RK0087,强连通分量原理的形式化规约、协议状态转换与安全性验证方法,强连通分量,0.521539,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P168,National Software Designer (RK),"[0.55,1.00)",RK0048,两阶段提交的基本概念、体系结构与核心运行机制,两阶段提交,0.519039,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P169,National Software Designer (RK),"[0.55,1.00)",RK0017,梯度提升树在软件系统设计中的算法实现与时空复杂度分析,梯度提升树,0.52021,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P170,National Software Designer (RK),"[0.55,1.00)",RK0126,基于偏序关系的并发同步控制、资源调度与异常处理机制,偏序关系,0.516979,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P171,National Software Designer (RK),"[0.55,1.00)",RK0186,基于权限控制chmod的并发同步控制、资源调度与异常处理机制,权限控制chmod,0.520481,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P172,National Software Designer (RK),"[0.55,1.00)",RK0053,中断处理在软件系统设计中的算法实现与时空复杂度分析,中断处理,0.519755,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P173,1+X Big Data Application,"[0.55,1.00)",BD0129,基于大数据计算引擎与数据对象，实现多源异构数据服务单元集成与完整性校验,大数据,0.539662,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P174,1+X Big Data Application,"[0.35,0.48)",BD0193,基于大数据计算引擎与最大流最小割定理，实现多源异构数据服务单元集成与完整性校验,数据库系统,0.443454,否,否,Low cosine similarity; skill clause and course concept belong to distinct subdomains
+P175,1+X Big Data Application,"[0.48,0.55)",BD0009,基于大数据计算引擎与数据对象，实现多源异构数据服务单元集成与完整性校验,跨域资源共享,0.511055,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P176,1+X Big Data Application,"[0.55,1.00)",BD0086,围绕企业级数据仓库与数据仓库，开展数据网络传输优化、数据对象建模与多维统计分析,数据仓库,0.516978,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P177,1+X Big Data Application,"[0.55,1.00)",BD0017,基于大数据计算引擎与数据加密，实现多源异构数据服务单元集成与完整性校验,加密,0.510583,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P178,1+X Big Data Application,"[0.48,0.55)",BD0167,结合分布式数据存储体系与谓词逻辑，构建高吞吐量数据流处理与可视化分析报表,语义分割,0.508343,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P179,1+X Big Data Application,"[0.35,0.48)",BD0085,基于大数据计算引擎与数据挖掘，实现多源异构数据服务单元集成与完整性校验,数据中心,0.443145,否,否,Low cosine similarity; skill clause and course concept belong to distinct subdomains
+P180,1+X Big Data Application,"[0.55,1.00)",BD0112,针对海量业务日志与数据压缩，完成大数据采集管道构建与分布式清洗入库,数据,0.535715,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P181,1+X Big Data Application,"[0.55,1.00)",BD0089,基于大数据计算引擎与数据加密，实现多源异构数据服务单元集成与完整性校验,数据加密,0.540512,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P182,1+X Big Data Application,"[0.55,1.00)",BD0013,基于大数据计算引擎与数据挖掘，实现多源异构数据服务单元集成与完整性校验,大数据,0.540554,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P183,1+X Big Data Application,"[0.55,1.00)",BD0014,围绕企业级数据仓库与数据仓库，开展数据网络传输优化、数据对象建模与多维统计分析,数据仓库,0.516978,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P184,1+X Big Data Application,"[0.55,1.00)",BD0047,结合分布式数据存储体系与数据可视化，构建高吞吐量数据流处理与可视化分析报表,数据可视化,0.551175,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P185,1+X Big Data Application,"[0.55,1.00)",BD0182,围绕企业级数据仓库与共享内存，开展数据网络传输优化、数据对象建模与多维统计分析,数据网络,0.538121,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P186,1+X Big Data Application,"[0.55,1.00)",BD0069,基于大数据计算引擎与数据模型，实现多源异构数据服务单元集成与完整性校验,大数据,0.540374,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P187,1+X Big Data Application,"[0.48,0.55)",BD0065,基于大数据计算引擎与数据加密，实现多源异构数据服务单元集成与完整性校验,硬链接与软链接,0.509876,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P188,1+X Big Data Application,"[0.55,1.00)",BD0162,围绕企业级数据仓库与垃圾收集器，开展数据网络传输优化、数据对象建模与多维统计分析,数据仓库,0.516942,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P189,1+X Big Data Application,"[0.55,1.00)",BD0019,结合分布式数据存储体系与数据包，构建高吞吐量数据流处理与可视化分析报表,数据包,0.520088,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P190,1+X Big Data Application,"[0.55,1.00)",BD0043,结合分布式数据存储体系与数据包，构建高吞吐量数据流处理与可视化分析报表,数据流,0.526024,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P191,1+X Big Data Application,"[0.55,1.00)",BD0145,基于大数据计算引擎与数字证书，实现多源异构数据服务单元集成与完整性校验,数据服务,0.530351,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P192,1+X Big Data Application,"[0.55,1.00)",BD0090,围绕企业级数据仓库与数据链路层，开展数据网络传输优化、数据对象建模与多维统计分析,数据网络,0.538168,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P193,1+X Big Data Application,"[0.55,1.00)",BD0043,结合分布式数据存储体系与数据包，构建高吞吐量数据流处理与可视化分析报表,数据,0.539075,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P194,1+X Big Data Application,"[0.55,1.00)",BD0126,围绕企业级数据仓库与图像数据，开展数据网络传输优化、数据对象建模与多维统计分析,图像数据,0.53507,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P195,1+X Big Data Application,"[0.48,0.55)",BD0003,结合分布式数据存储体系与数据，构建高吞吐量数据流处理与可视化分析报表,BASE理论,0.509625,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P196,1+X Big Data Application,"[0.55,1.00)",BD0083,结合分布式数据存储体系与数据组织，构建高吞吐量数据流处理与可视化分析报表,数据流,0.526185,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P197,1+X Big Data Application,"[0.48,0.55)",BD0192,针对海量业务日志与拓扑排序原理，完成大数据采集管道构建与分布式清洗入库,可执行程序,0.517312,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P198,1+X Big Data Application,"[0.55,1.00)",BD0136,针对海量业务日志与Raft算法，完成大数据采集管道构建与分布式清洗入库,大数据,0.537766,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P199,1+X Big Data Application,"[0.55,1.00)",BD0078,围绕企业级数据仓库与图像数据，开展数据网络传输优化、数据对象建模与多维统计分析,数据对象,0.526665,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P200,1+X Big Data Application,"[0.48,0.55)",BD0024,针对海量业务日志与数据结构，完成大数据采集管道构建与分布式清洗入库,时序逻辑电路,0.510936,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P201,1+X Big Data Application,"[0.55,1.00)",BD0167,结合分布式数据存储体系与谓词逻辑，构建高吞吐量数据流处理与可视化分析报表,谓词逻辑,0.511891,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P202,1+X Big Data Application,"[0.55,1.00)",BD0127,结合分布式数据存储体系与数据服务，构建高吞吐量数据流处理与可视化分析报表,数据服务,0.531236,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P203,1+X Big Data Application,"[0.55,1.00)",BD0177,基于大数据计算引擎与JSON格式，实现多源异构数据服务单元集成与完整性校验,JSON格式,0.510956,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P204,1+X Big Data Application,"[0.55,1.00)",BD0156,针对海量业务日志与直接内存访问，完成大数据采集管道构建与分布式清洗入库,直接内存访问,0.511616,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P205,1+X Big Data Application,"[0.55,1.00)",BD0141,基于大数据计算引擎与单例模式，实现多源异构数据服务单元集成与完整性校验,大数据,0.538847,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P206,1+X Big Data Application,"[0.55,1.00)",BD0172,针对海量业务日志与矩估计，完成大数据采集管道构建与分布式清洗入库,大数据,0.53723,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P207,1+X Big Data Application,"[0.35,0.48)",BD0093,基于大数据计算引擎与数据模型，实现多源异构数据服务单元集成与完整性校验,数据字典,0.443654,否,否,Low cosine similarity; skill clause and course concept belong to distinct subdomains
+P208,1+X Big Data Application,"[0.55,1.00)",BD0031,结合分布式数据存储体系与数据服务，构建高吞吐量数据流处理与可视化分析报表,数据服务,0.531236,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P209,1+X Big Data Application,"[0.55,1.00)",BD0093,基于大数据计算引擎与数据模型，实现多源异构数据服务单元集成与完整性校验,大数据,0.540374,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P210,1+X Big Data Application,"[0.55,1.00)",BD0170,围绕企业级数据仓库与条件概率，开展数据网络传输优化、数据对象建模与多维统计分析,条件概率,0.509378,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P211,1+X Big Data Application,"[0.55,1.00)",BD0193,基于大数据计算引擎与最大流最小割定理，实现多源异构数据服务单元集成与完整性校验,最大流最小割定理,0.516156,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P212,1+X Big Data Application,"[0.55,1.00)",BD0181,基于大数据计算引擎与性能监控，实现多源异构数据服务单元集成与完整性校验,性能监控,0.509058,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P213,1+X Big Data Application,"[0.55,1.00)",BD0063,结合分布式数据存储体系与数据流，构建高吞吐量数据流处理与可视化分析报表,数据,0.539074,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P214,1+X Big Data Application,"[0.55,1.00)",BD0117,基于大数据计算引擎与数据模型，实现多源异构数据服务单元集成与完整性校验,大数据,0.540374,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P215,1+X Big Data Application,"[0.55,1.00)",BD0042,围绕企业级数据仓库与数据链路层，开展数据网络传输优化、数据对象建模与多维统计分析,数据网络,0.538168,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P216,1+X Big Data Application,"[0.55,1.00)",BD0079,结合分布式数据存储体系与数据服务，构建高吞吐量数据流处理与可视化分析报表,数据流,0.526496,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P217,1+X Big Data Application,"[0.55,1.00)",BD0088,针对海量业务日志与数据压缩，完成大数据采集管道构建与分布式清洗入库,数据,0.535715,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P218,1+X Big Data Application,"[0.55,1.00)",BD0197,基于大数据计算引擎与动量优化算法，实现多源异构数据服务单元集成与完整性校验,动量优化算法,0.510638,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P219,1+X Big Data Application,"[0.55,1.00)",BD0087,结合分布式数据存储体系与数据流，构建高吞吐量数据流处理与可视化分析报表,数据流,0.527456,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P220,1+X Big Data Application,"[0.55,1.00)",BD0186,围绕企业级数据仓库与内存映射文件，开展数据网络传输优化、数据对象建模与多维统计分析,数据对象,0.526072,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P221,1+X Big Data Application,"[0.55,1.00)",BD0092,针对海量业务日志与数据字典，完成大数据采集管道构建与分布式清洗入库,数据字典,0.520261,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P222,1+X Big Data Application,"[0.55,1.00)",BD0030,围绕企业级数据仓库与图像数据，开展数据网络传输优化、数据对象建模与多维统计分析,图像数据,0.53507,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P223,1+X Big Data Application,"[0.55,1.00)",BD0031,结合分布式数据存储体系与数据服务，构建高吞吐量数据流处理与可视化分析报表,数据流,0.526496,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P224,1+X Big Data Application,"[0.55,1.00)",BD0104,针对海量业务日志与数据完整性，完成大数据采集管道构建与分布式清洗入库,数据完整性,0.532155,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P225,1+X Big Data Application,"[0.55,1.00)",BD0058,围绕企业级数据仓库与数据源，开展数据网络传输优化、数据对象建模与多维统计分析,数据网络,0.538783,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P226,1+X Big Data Application,"[0.55,1.00)",BD0190,围绕企业级数据仓库与B+树原理，开展数据网络传输优化、数据对象建模与多维统计分析,数据,0.537213,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P227,1+X Big Data Application,"[0.55,1.00)",BD0193,基于大数据计算引擎与最大流最小割定理，实现多源异构数据服务单元集成与完整性校验,最大流最小割,0.513596,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P228,1+X Big Data Application,"[0.55,1.00)",BD0163,结合分布式数据存储体系与线程池，构建高吞吐量数据流处理与可视化分析报表,线程池,0.51172,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P229,1+X Big Data Application,"[0.55,1.00)",BD0005,基于大数据计算引擎与数据类型，实现多源异构数据服务单元集成与完整性校验,数据类型,0.538856,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P230,1+X Big Data Application,"[0.55,1.00)",BD0116,针对海量业务日志与数据字典，完成大数据采集管道构建与分布式清洗入库,数据字典,0.520261,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P231,1+X Big Data Application,"[0.55,1.00)",BD0012,针对海量业务日志与数据库系统，完成大数据采集管道构建与分布式清洗入库,数据库系统,0.51719,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P232,1+X Big Data Application,"[0.48,0.55)",BD0168,针对海量业务日志与容斥原理，完成大数据采集管道构建与分布式清洗入库,数据字典,0.515865,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P233,1+X Big Data Application,"[0.55,1.00)",BD0094,围绕企业级数据仓库与数据中心，开展数据网络传输优化、数据对象建模与多维统计分析,数据网络,0.538763,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P234,1+X Big Data Application,"[0.55,1.00)",BD0139,结合分布式数据存储体系与熔断机制，构建高吞吐量数据流处理与可视化分析报表,熔断机制,0.511598,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P235,1+X Big Data Application,"[0.55,1.00)",BD0017,基于大数据计算引擎与数据加密，实现多源异构数据服务单元集成与完整性校验,数据加密,0.540512,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P236,1+X Big Data Application,"[0.55,1.00)",BD0000,针对海量业务日志与数据结构，完成大数据采集管道构建与分布式清洗入库,数据,0.537265,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P237,1+X Big Data Application,"[0.55,1.00)",BD0130,围绕企业级数据仓库与光纤通信，开展数据网络传输优化、数据对象建模与多维统计分析,数据网络,0.539837,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P238,1+X Big Data Application,"[0.55,1.00)",BD0176,针对海量业务日志与Flexbox布局，完成大数据采集管道构建与分布式清洗入库,Flexbox布局,0.512662,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P239,1+X Big Data Application,"[0.55,1.00)",BD0046,围绕企业级数据仓库与数据中心，开展数据网络传输优化、数据对象建模与多维统计分析,数据网络,0.538763,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P240,1+X Big Data Application,"[0.55,1.00)",BD0103,结合分布式数据存储体系与数据服务，构建高吞吐量数据流处理与可视化分析报表,数据流,0.526496,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P241,1+X Big Data Application,"[0.55,1.00)",BD0060,针对海量业务日志与数据库系统，完成大数据采集管道构建与分布式清洗入库,数据库系统,0.51719,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P242,1+X Big Data Application,"[0.55,1.00)",BD0173,基于大数据计算引擎与泊松过程，实现多源异构数据服务单元集成与完整性校验,泊松过程,0.508696,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P243,1+X Big Data Application,"[0.55,1.00)",BD0167,结合分布式数据存储体系与谓词逻辑，构建高吞吐量数据流处理与可视化分析报表,数据流,0.525983,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P244,1+X Big Data Application,"[0.48,0.55)",BD0189,基于大数据计算引擎与环境变量配置，实现多源异构数据服务单元集成与完整性校验,面向对象程序设计,0.516971,是,待议,Rater A judged direct functional dependency; Rater B noted granularity difference
+P245,1+X Big Data Application,"[0.55,1.00)",BD0061,基于大数据计算引擎与数据挖掘，实现多源异构数据服务单元集成与完整性校验,大数据,0.540554,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P246,1+X Big Data Application,"[0.55,1.00)",BD0057,基于大数据计算引擎与数据对象，实现多源异构数据服务单元集成与完整性校验,数据对象,0.527038,是,是,Unambiguous domain terminology and pedagogical competency alignment
+P247,1+X Big Data Application,"[0.55,1.00)",BD0185,基于大数据计算引擎与互斥锁，实现多源异构数据服务单元集成与完整性校验,大数据,0.537553,是,是,Unambiguous domain terminology and pedagogical competency alignment

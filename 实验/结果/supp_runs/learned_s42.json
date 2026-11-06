@@ -1,0 +1,15 @@
+{
+  "mode": "learned_fixed",
+  "g": 2.889,
+  "gate_value": 2.889,
+  "seed": 42,
+  "best_epoch": 12,
+  "epochs_ran": 20,
+  "gate_best": 2.889,
+  "gate_at_best": 2.889,
+  "test_at_best": {
+    "NDCG@10": 0.16849,
+    "HR@10": 0.67817,
+    "MRR": 0.32047
+  }
+}

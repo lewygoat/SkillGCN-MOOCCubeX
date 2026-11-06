@@ -1,0 +1,18 @@
+{
+  "rule": "sum of (sim - tau) over candidate edges with sim >= tau, normalized by mean of nonzero",
+  "tau": 0.5,
+  "pools": [
+    "s8_align.json",
+    "s8_align_rk.json",
+    "s8_align_bigdata.json"
+  ],
+  "n_concepts": 576,
+  "nonzero": 576,
+  "seen_edges": 13680,
+  "kept_edges": 8056,
+  "weight_min": 0.42688971757888794,
+  "weight_max": 14.985048294067383,
+  "weight_mean_nonzero": 1.0,
+  "scale_divisor": 0.22000000034722222,
+  "note": "BAAI/bge-small-zh-v1.5 cosine similarity excess-threshold aggregation via s8_align*.json"
+}

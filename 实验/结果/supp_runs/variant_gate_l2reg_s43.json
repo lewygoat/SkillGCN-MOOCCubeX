@@ -1,0 +1,13 @@
+{
+  "mode": "variant_gate_l2reg",
+  "seed": 43,
+  "best_epoch": 11,
+  "epochs_ran": 19,
+  "gate_best": 0.4058,
+  "gate_at_best": 0.4058,
+  "test_at_best": {
+    "NDCG@10": 0.17338,
+    "HR@10": 0.69611,
+    "MRR": 0.32959
+  }
+}

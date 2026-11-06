@@ -1,0 +1,13 @@
+{
+  "mode": "variant_vector",
+  "seed": 44,
+  "best_epoch": 7,
+  "epochs_ran": 15,
+  "gate_best": 2.15,
+  "gate_at_best": 2.15,
+  "test_at_best": {
+    "NDCG@10": 0.16437,
+    "HR@10": 0.65996,
+    "MRR": 0.31247
+  }
+}

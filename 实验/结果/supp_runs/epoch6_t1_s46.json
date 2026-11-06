@@ -1,0 +1,14 @@
+{
+  "mode": "epoch6",
+  "config": "t1",
+  "seed": 46,
+  "best_epoch": 6,
+  "epochs_ran": 6,
+  "gate_best": 0.0,
+  "gate_at_best": 0.0,
+  "test_at_best": {
+    "NDCG@10": 0.17512,
+    "HR@10": 0.70223,
+    "MRR": 0.33273
+  }
+}

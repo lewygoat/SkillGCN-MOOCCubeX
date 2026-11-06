@@ -1,0 +1,111 @@
+{
+  "seed_concept_idx": 148,
+  "seed_concept_name": "分布式锁",
+  "sample_rng_seed": 99,
+  "emb_seed": 42,
+  "norm_mode": "none (unnormalized dot-product, isolating gate scaling effect)",
+  "cov_weight_t1": 0.0,
+  "cov_weight_t3": 0.0,
+  "target_len": 8,
+  "prereq_constraint": "prereq_adopted (model input edges, isolated from eval_prereq_positive)",
+  "path_t1": [
+    {
+      "step": 1,
+      "idx": 148,
+      "name": "分布式锁",
+      "weight": 0.9524
+    },
+    {
+      "step": 2,
+      "idx": 39,
+      "name": "计数器",
+      "weight": 0.7204
+    },
+    {
+      "step": 3,
+      "idx": 291,
+      "name": "比较并交换",
+      "weight": 0.6012
+    },
+    {
+      "step": 4,
+      "idx": 214,
+      "name": "决策树",
+      "weight": 0.543
+    },
+    {
+      "step": 5,
+      "idx": 452,
+      "name": "高斯混合模型",
+      "weight": 0.7943
+    },
+    {
+      "step": 6,
+      "idx": 422,
+      "name": "AVL树",
+      "weight": 0.4924
+    },
+    {
+      "step": 7,
+      "idx": 154,
+      "name": "MapReduce模型",
+      "weight": 0.5801
+    },
+    {
+      "step": 8,
+      "idx": 257,
+      "name": "浮点数表示",
+      "weight": 0.8271
+    }
+  ],
+  "path_t3": [
+    {
+      "step": 1,
+      "idx": 148,
+      "name": "分布式锁",
+      "weight": 0.9524
+    },
+    {
+      "step": 2,
+      "idx": 0,
+      "name": "数据结构",
+      "weight": 14.985
+    },
+    {
+      "step": 3,
+      "idx": 19,
+      "name": "确定性算法",
+      "weight": 4.7633
+    },
+    {
+      "step": 4,
+      "idx": 145,
+      "name": "触发器",
+      "weight": 0.5358
+    },
+    {
+      "step": 5,
+      "idx": 435,
+      "name": "二分图匹配原理",
+      "weight": 0.7475
+    },
+    {
+      "step": 6,
+      "idx": 372,
+      "name": "组件化开发",
+      "weight": 0.5039
+    },
+    {
+      "step": 7,
+      "idx": 328,
+      "name": "正态分布",
+      "weight": 1.0103
+    },
+    {
+      "step": 8,
+      "idx": 3,
+      "name": "数据",
+      "weight": 9.2725
+    }
+  ]
+}

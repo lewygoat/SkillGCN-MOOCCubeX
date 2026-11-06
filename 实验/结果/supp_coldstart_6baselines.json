@@ -1,0 +1,143 @@
+{
+  "n_cold_users_all": 10748,
+  "n_cold_users_career_track": 3412,
+  "n_cold_users_general": 7336,
+  "n_cold_concepts": 48,
+  "total_cold_interactions": 21928,
+  "all_cold_users_10748": {
+    "Random": {
+      "HR@10": 0.03247,
+      "NDCG@10": 0.00885,
+      "HR@20": 0.06485,
+      "NDCG@20": 0.01402,
+      "NDCG@10_se": 0.00051,
+      "Skill_Coverage@10": 0.06774,
+      "Taxonomy_Coverage@10": 0.07186,
+      "Prereq_Violation_Rate": 0.0,
+      "Cognitive_Smoothness": 1.06666
+    },
+    "Concept_ID": {
+      "HR@10": 0.02838,
+      "NDCG@10": 0.00733,
+      "HR@20": 0.07229,
+      "NDCG@20": 0.01409,
+      "NDCG@10_se": 0.00045,
+      "Skill_Coverage@10": 0.0475,
+      "Taxonomy_Coverage@10": 0.6602,
+      "Prereq_Violation_Rate": 0.0,
+      "Cognitive_Smoothness": 1.4444
+    },
+    "Prerequisite_Depth": {
+      "HR@10": 0.08532,
+      "NDCG@10": 0.02513,
+      "HR@20": 0.15435,
+      "NDCG@20": 0.03649,
+      "NDCG@10_se": 0.0009,
+      "Skill_Coverage@10": 0.1294,
+      "Taxonomy_Coverage@10": 0.2233,
+      "Prereq_Violation_Rate": 0.0,
+      "Cognitive_Smoothness": 1.5556
+    },
+    "Most_Popular": {
+      "HR@10": 0.11909,
+      "NDCG@10": 0.03879,
+      "HR@20": 0.19911,
+      "NDCG@20": 0.05218,
+      "NDCG@10_se": 0.00114,
+      "Skill_Coverage@10": 0.2333,
+      "Taxonomy_Coverage@10": 0.3398,
+      "Prereq_Violation_Rate": 0.0,
+      "Cognitive_Smoothness": 1.6667
+    },
+    "Popularity_Taxonomy_Coverage": {
+      "HR@10": 0.10467,
+      "NDCG@10": 0.03042,
+      "HR@20": 0.21157,
+      "NDCG@20": 0.04828,
+      "NDCG@10_se": 0.00093,
+      "Skill_Coverage@10": 0.1729,
+      "Taxonomy_Coverage@10": 0.6117,
+      "Prereq_Violation_Rate": 0.0,
+      "Cognitive_Smoothness": 1.7778
+    },
+    "Skill_Prior_TopoSort": {
+      "HR@10": 0.14579,
+      "NDCG@10": 0.04205,
+      "HR@20": 0.2406,
+      "NDCG@20": 0.05829,
+      "NDCG@10_se": 0.00112,
+      "Skill_Coverage@10": 0.6564,
+      "Taxonomy_Coverage@10": 0.5922,
+      "Prereq_Violation_Rate": 0.0,
+      "Cognitive_Smoothness": 0.2222
+    }
+  },
+  "career_track_cold_users_3412": {
+    "Random": {
+      "HR@10": 0.03335,
+      "NDCG@10": 0.0095,
+      "HR@20": 0.06841,
+      "NDCG@20": 0.01513,
+      "NDCG@10_se": 0.00096,
+      "Skill_Coverage@10": 0.06774,
+      "Taxonomy_Coverage@10": 0.07186,
+      "Prereq_Violation_Rate": 0.0,
+      "Cognitive_Smoothness": 1.06666
+    },
+    "Concept_ID": {
+      "HR@10": 0.02403,
+      "NDCG@10": 0.00645,
+      "HR@20": 0.06917,
+      "NDCG@20": 0.01353,
+      "NDCG@10_se": 0.00078,
+      "Skill_Coverage@10": 0.0475,
+      "Taxonomy_Coverage@10": 0.6602,
+      "Prereq_Violation_Rate": 0.0,
+      "Cognitive_Smoothness": 1.4444
+    },
+    "Prerequisite_Depth": {
+      "HR@10": 0.07327,
+      "NDCG@10": 0.0232,
+      "HR@20": 0.11958,
+      "NDCG@20": 0.03054,
+      "NDCG@10_se": 0.00159,
+      "Skill_Coverage@10": 0.1294,
+      "Taxonomy_Coverage@10": 0.2233,
+      "Prereq_Violation_Rate": 0.0,
+      "Cognitive_Smoothness": 1.5556
+    },
+    "Most_Popular": {
+      "HR@10": 0.11137,
+      "NDCG@10": 0.04036,
+      "HR@20": 0.16647,
+      "NDCG@20": 0.04961,
+      "NDCG@10_se": 0.00216,
+      "Skill_Coverage@10": 0.2333,
+      "Taxonomy_Coverage@10": 0.3398,
+      "Prereq_Violation_Rate": 0.0,
+      "Cognitive_Smoothness": 1.6667
+    },
+    "Popularity_Taxonomy_Coverage": {
+      "HR@10": 0.09848,
+      "NDCG@10": 0.02927,
+      "HR@20": 0.23066,
+      "NDCG@20": 0.05127,
+      "NDCG@10_se": 0.00161,
+      "Skill_Coverage@10": 0.1729,
+      "Taxonomy_Coverage@10": 0.6117,
+      "Prereq_Violation_Rate": 0.0,
+      "Cognitive_Smoothness": 1.7778
+    },
+    "Skill_Prior_TopoSort": {
+      "HR@10": 0.22362,
+      "NDCG@10": 0.06788,
+      "HR@20": 0.36079,
+      "NDCG@20": 0.09282,
+      "NDCG@10_se": 0.0025,
+      "Skill_Coverage@10": 0.6564,
+      "Taxonomy_Coverage@10": 0.5922,
+      "Prereq_Violation_Rate": 0.0,
+      "Cognitive_Smoothness": 0.2222
+    }
+  }
+}

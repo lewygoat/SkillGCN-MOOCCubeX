@@ -1,0 +1,143 @@
+{
+  "method": "SkillAnchoredLightGCN-T3-gate-newS9",
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "per_seed": [
+    {
+      "seed": 42,
+      "gate_final": 2.889124,
+      "gate_at_best": 2.889124,
+      "gate_at_early_stop": 9.827641,
+      "best_epoch": 3,
+      "epochs_ran": 11,
+      "test_NDCG@10": 0.16679,
+      "val_best": 0.16299,
+      "gate_trajectory": [
+        0.980292,
+        1.955197,
+        2.889124,
+        3.883545,
+        4.859369,
+        5.797332,
+        6.672259,
+        7.529991,
+        8.350259,
+        9.101626,
+        9.827641
+      ]
+    },
+    {
+      "seed": 43,
+      "gate_final": 3.774108,
+      "gate_at_best": 3.774108,
+      "gate_at_early_stop": 10.40159,
+      "best_epoch": 4,
+      "epochs_ran": 12,
+      "test_NDCG@10": 0.1657,
+      "val_best": 0.1619,
+      "gate_trajectory": [
+        1.010207,
+        1.939329,
+        2.875156,
+        3.774108,
+        4.721301,
+        5.596727,
+        6.469472,
+        7.28654,
+        8.06305,
+        8.903959,
+        9.707531,
+        10.40159
+      ]
+    },
+    {
+      "seed": 44,
+      "gate_final": 3.771892,
+      "gate_at_best": 3.771892,
+      "gate_at_early_stop": 10.411466,
+      "best_epoch": 4,
+      "epochs_ran": 12,
+      "test_NDCG@10": 0.16509,
+      "val_best": 0.16129,
+      "gate_trajectory": [
+        0.983707,
+        1.93152,
+        2.868116,
+        3.771892,
+        4.705095,
+        5.581129,
+        6.437117,
+        7.315508,
+        8.133905,
+        8.897863,
+        9.663672,
+        10.411466
+      ]
+    },
+    {
+      "seed": 45,
+      "gate_final": 2.871045,
+      "gate_at_best": 2.871045,
+      "gate_at_early_stop": 9.821522,
+      "best_epoch": 3,
+      "epochs_ran": 11,
+      "test_NDCG@10": 0.16641,
+      "val_best": 0.16261,
+      "gate_trajectory": [
+        1.010525,
+        1.947657,
+        2.871045,
+        3.805621,
+        4.759197,
+        5.689337,
+        6.602162,
+        7.456427,
+        8.304792,
+        9.065104,
+        9.821522
+      ]
+    },
+    {
+      "seed": 46,
+      "gate_final": 5.689231,
+      "gate_at_best": 5.689231,
+      "gate_at_early_stop": 11.939043,
+      "best_epoch": 6,
+      "epochs_ran": 14,
+      "test_NDCG@10": 0.16387,
+      "val_best": 0.16007,
+      "gate_trajectory": [
+        1.024843,
+        2.025663,
+        2.970937,
+        3.917576,
+        4.799318,
+        5.689231,
+        6.593871,
+        7.47652,
+        8.335072,
+        9.086315,
+        9.799273,
+        10.540003,
+        11.262405,
+        11.939043
+      ]
+    }
+  ],
+  "summary": {
+    "gate_final": {
+      "mean": 3.79908,
+      "std": 1.14709
+    },
+    "test_NDCG@10": {
+      "mean": 0.16557,
+      "std": 0.00115
+    }
+  },
+  "s9_source": "BAAI/bge-v1.5 cosine alignment via s8_align.py & s9_gen.py"
+}

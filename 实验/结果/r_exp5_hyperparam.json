@@ -1,0 +1,201 @@
+{
+  "dim": {
+    "dim": [
+      32,
+      64,
+      128,
+      256
+    ],
+    "configs": {
+      "t1": {
+        "32": {
+          "value": 32,
+          "seed": 42,
+          "epochs": 19,
+          "test_NDCG@10": 0.17412
+        },
+        "64": {
+          "value": 64,
+          "seed": 42,
+          "epochs": 18,
+          "test_NDCG@10": 0.17649
+        },
+        "128": {
+          "value": 128,
+          "seed": 42,
+          "epochs": 17,
+          "test_NDCG@10": 0.17688
+        },
+        "256": {
+          "value": 256,
+          "seed": 42,
+          "epochs": 16,
+          "test_NDCG@10": 0.17704
+        }
+      },
+      "t3": {
+        "32": {
+          "value": 32,
+          "seed": 42,
+          "epochs": 11,
+          "test_NDCG@10": 0.16285
+        },
+        "64": {
+          "value": 64,
+          "seed": 42,
+          "epochs": 11,
+          "test_NDCG@10": 0.16679
+        },
+        "128": {
+          "value": 128,
+          "seed": 42,
+          "epochs": 11,
+          "test_NDCG@10": 0.16724
+        },
+        "256": {
+          "value": 256,
+          "seed": 42,
+          "epochs": 11,
+          "test_NDCG@10": 0.16763
+        }
+      }
+    }
+  },
+  "layers": {
+    "layers": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "configs": {
+      "t1": {
+        "1": {
+          "value": 1,
+          "seed": 42,
+          "epochs": 19,
+          "test_NDCG@10": 0.1752
+        },
+        "2": {
+          "value": 2,
+          "seed": 42,
+          "epochs": 18,
+          "test_NDCG@10": 0.17649
+        },
+        "3": {
+          "value": 3,
+          "seed": 42,
+          "epochs": 17,
+          "test_NDCG@10": 0.17284
+        },
+        "4": {
+          "value": 4,
+          "seed": 42,
+          "epochs": 16,
+          "test_NDCG@10": 0.16811
+        }
+      },
+      "t3": {
+        "1": {
+          "value": 1,
+          "seed": 42,
+          "epochs": 12,
+          "test_NDCG@10": 0.16512
+        },
+        "2": {
+          "value": 2,
+          "seed": 42,
+          "epochs": 11,
+          "test_NDCG@10": 0.16679
+        },
+        "3": {
+          "value": 3,
+          "seed": 42,
+          "epochs": 11,
+          "test_NDCG@10": 0.16548
+        },
+        "4": {
+          "value": 4,
+          "seed": 42,
+          "epochs": 11,
+          "test_NDCG@10": 0.16432
+        }
+      }
+    }
+  },
+  "lr": {
+    "lr": [
+      0.001,
+      0.005,
+      0.01,
+      0.05,
+      0.1
+    ],
+    "configs": {
+      "t1": {
+        "0.001": {
+          "value": 0.001,
+          "seed": 42,
+          "epochs": 38,
+          "test_NDCG@10": 0.17395
+        },
+        "0.005": {
+          "value": 0.005,
+          "seed": 42,
+          "epochs": 22,
+          "test_NDCG@10": 0.17618
+        },
+        "0.01": {
+          "value": 0.01,
+          "seed": 42,
+          "epochs": 18,
+          "test_NDCG@10": 0.17649
+        },
+        "0.05": {
+          "value": 0.05,
+          "seed": 42,
+          "epochs": 12,
+          "test_NDCG@10": 0.17421
+        },
+        "0.1": {
+          "value": 0.1,
+          "seed": 42,
+          "epochs": 10,
+          "test_NDCG@10": 0.17108
+        }
+      },
+      "t3": {
+        "0.001": {
+          "value": 0.001,
+          "seed": 42,
+          "epochs": 24,
+          "test_NDCG@10": 0.16482
+        },
+        "0.005": {
+          "value": 0.005,
+          "seed": 42,
+          "epochs": 14,
+          "test_NDCG@10": 0.16654
+        },
+        "0.01": {
+          "value": 0.01,
+          "seed": 42,
+          "epochs": 11,
+          "test_NDCG@10": 0.16679
+        },
+        "0.05": {
+          "value": 0.05,
+          "seed": 42,
+          "epochs": 9,
+          "test_NDCG@10": 0.15654
+        },
+        "0.1": {
+          "value": 0.1,
+          "seed": 42,
+          "epochs": 9,
+          "test_NDCG@10": 0.15188
+        }
+      }
+    }
+  }
+}

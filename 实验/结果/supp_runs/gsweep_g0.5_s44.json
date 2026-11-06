@@ -1,0 +1,14 @@
+{
+  "mode": "gsweep",
+  "g": 0.5,
+  "seed": 44,
+  "best_epoch": 14,
+  "epochs_ran": 22,
+  "gate_best": 0.5,
+  "gate_at_best": 0.5,
+  "test_at_best": {
+    "NDCG@10": 0.17433,
+    "HR@10": 0.69942,
+    "MRR": 0.33088
+  }
+}

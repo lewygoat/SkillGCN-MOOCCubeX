@@ -1,0 +1,13 @@
+{
+  "mode": "variant_nobigdata",
+  "seed": 46,
+  "best_epoch": 5,
+  "epochs_ran": 13,
+  "gate_best": 3.5226,
+  "gate_at_best": 3.5226,
+  "test_at_best": {
+    "NDCG@10": 0.16627,
+    "HR@10": 0.66758,
+    "MRR": 0.31608
+  }
+}

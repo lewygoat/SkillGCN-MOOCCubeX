@@ -1,0 +1,13 @@
+{
+  "mode": "variant_l2_train",
+  "seed": 46,
+  "best_epoch": 10,
+  "epochs_ran": 18,
+  "gate_best": 1.4626,
+  "gate_at_best": 1.4626,
+  "test_at_best": {
+    "NDCG@10": 0.16956,
+    "HR@10": 0.68079,
+    "MRR": 0.32234
+  }
+}

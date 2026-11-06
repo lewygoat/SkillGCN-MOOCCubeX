@@ -1,0 +1,195 @@
+{
+  "method": "Most-Popular",
+  "tag": "popularity",
+  "device": "cpu",
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "hyper": {},
+  "per_seed": [
+    {
+      "NDCG@5": 0.12934,
+      "NDCG@10": 0.16554,
+      "NDCG@15": 0.16919,
+      "NDCG@20": 0.19048,
+      "HR@5": 0.44243,
+      "HR@10": 0.84417,
+      "HR@15": 0.91653,
+      "HR@20": 0.95044,
+      "Recall@5": 0.04843,
+      "Recall@10": 0.13504,
+      "Recall@15": 0.18118,
+      "Recall@20": 0.21814,
+      "Precision@5": 0.12719,
+      "Precision@10": 0.17768,
+      "Precision@15": 0.15902,
+      "Precision@20": 0.14365,
+      "MRR": 0.30942
+    },
+    {
+      "NDCG@5": 0.12934,
+      "NDCG@10": 0.16554,
+      "NDCG@15": 0.16919,
+      "NDCG@20": 0.19048,
+      "HR@5": 0.44243,
+      "HR@10": 0.84417,
+      "HR@15": 0.91653,
+      "HR@20": 0.95044,
+      "Recall@5": 0.04843,
+      "Recall@10": 0.13504,
+      "Recall@15": 0.18118,
+      "Recall@20": 0.21814,
+      "Precision@5": 0.12719,
+      "Precision@10": 0.17768,
+      "Precision@15": 0.15902,
+      "Precision@20": 0.14365,
+      "MRR": 0.30942
+    },
+    {
+      "NDCG@5": 0.12934,
+      "NDCG@10": 0.16554,
+      "NDCG@15": 0.16919,
+      "NDCG@20": 0.19048,
+      "HR@5": 0.44243,
+      "HR@10": 0.84417,
+      "HR@15": 0.91653,
+      "HR@20": 0.95044,
+      "Recall@5": 0.04843,
+      "Recall@10": 0.13504,
+      "Recall@15": 0.18118,
+      "Recall@20": 0.21814,
+      "Precision@5": 0.12719,
+      "Precision@10": 0.17768,
+      "Precision@15": 0.15902,
+      "Precision@20": 0.14365,
+      "MRR": 0.30942
+    },
+    {
+      "NDCG@5": 0.12934,
+      "NDCG@10": 0.16554,
+      "NDCG@15": 0.16919,
+      "NDCG@20": 0.19048,
+      "HR@5": 0.44243,
+      "HR@10": 0.84417,
+      "HR@15": 0.91653,
+      "HR@20": 0.95044,
+      "Recall@5": 0.04843,
+      "Recall@10": 0.13504,
+      "Recall@15": 0.18118,
+      "Recall@20": 0.21814,
+      "Precision@5": 0.12719,
+      "Precision@10": 0.17768,
+      "Precision@15": 0.15902,
+      "Precision@20": 0.14365,
+      "MRR": 0.30942
+    },
+    {
+      "NDCG@5": 0.12934,
+      "NDCG@10": 0.16554,
+      "NDCG@15": 0.16919,
+      "NDCG@20": 0.19048,
+      "HR@5": 0.44243,
+      "HR@10": 0.84417,
+      "HR@15": 0.91653,
+      "HR@20": 0.95044,
+      "Recall@5": 0.04843,
+      "Recall@10": 0.13504,
+      "Recall@15": 0.18118,
+      "Recall@20": 0.21814,
+      "Precision@5": 0.12719,
+      "Precision@10": 0.17768,
+      "Precision@15": 0.15902,
+      "Precision@20": 0.14365,
+      "MRR": 0.30942
+    }
+  ],
+  "summary": {
+    "NDCG@5": {
+      "mean": 0.12934,
+      "std": 0.0
+    },
+    "NDCG@10": {
+      "mean": 0.16554,
+      "std": 0.0
+    },
+    "NDCG@15": {
+      "mean": 0.16919,
+      "std": 0.0
+    },
+    "NDCG@20": {
+      "mean": 0.19048,
+      "std": 0.0
+    },
+    "HR@5": {
+      "mean": 0.44243,
+      "std": 0.0
+    },
+    "HR@10": {
+      "mean": 0.84417,
+      "std": 0.0
+    },
+    "HR@15": {
+      "mean": 0.91653,
+      "std": 0.0
+    },
+    "HR@20": {
+      "mean": 0.95044,
+      "std": 0.0
+    },
+    "Recall@5": {
+      "mean": 0.04843,
+      "std": 0.0
+    },
+    "Recall@10": {
+      "mean": 0.13504,
+      "std": 0.0
+    },
+    "Recall@15": {
+      "mean": 0.18118,
+      "std": 0.0
+    },
+    "Recall@20": {
+      "mean": 0.21814,
+      "std": 0.0
+    },
+    "Precision@5": {
+      "mean": 0.12719,
+      "std": 0.0
+    },
+    "Precision@10": {
+      "mean": 0.17768,
+      "std": 0.0
+    },
+    "Precision@15": {
+      "mean": 0.15902,
+      "std": 0.0
+    },
+    "Precision@20": {
+      "mean": 0.14365,
+      "std": 0.0
+    },
+    "MRR": {
+      "mean": 0.30942,
+      "std": 0.0
+    }
+  },
+  "concentration": {
+    "top10_share": 0.0643,
+    "top50_share": 0.2786,
+    "top100_share": 0.4859,
+    "hottest_learner_share": 0.3515,
+    "longtail_concepts_under_5pct": 293
+  },
+  "eval_users": 26535,
+  "split_overlaps": {
+    "train_test": 0,
+    "train_valid": 0,
+    "valid_test": 0
+  },
+  "failures": [],
+  "elapsed_s": 0.0
+}

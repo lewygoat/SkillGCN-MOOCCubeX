@@ -1,0 +1,161 @@
+{
+  "n_seed_concepts": 300,
+  "emb_seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "target_len": 10,
+  "pregate_provenance": [
+    {
+      "cfg": "t1",
+      "seed": 42,
+      "gate": 0.0,
+      "base_vs_divided_maxabs": 0.0
+    },
+    {
+      "cfg": "t1",
+      "seed": 43,
+      "gate": 0.0,
+      "base_vs_divided_maxabs": 0.0
+    },
+    {
+      "cfg": "t1",
+      "seed": 44,
+      "gate": 0.0,
+      "base_vs_divided_maxabs": 0.0
+    },
+    {
+      "cfg": "t1",
+      "seed": 45,
+      "gate": 0.0,
+      "base_vs_divided_maxabs": 0.0
+    },
+    {
+      "cfg": "t1",
+      "seed": 46,
+      "gate": 0.0,
+      "base_vs_divided_maxabs": 0.0
+    },
+    {
+      "cfg": "t3",
+      "seed": 42,
+      "gate": 2.889124,
+      "base_vs_divided_maxabs": 0.0
+    },
+    {
+      "cfg": "t3",
+      "seed": 43,
+      "gate": 3.774108,
+      "base_vs_divided_maxabs": 0.0
+    },
+    {
+      "cfg": "t3",
+      "seed": 44,
+      "gate": 3.771892,
+      "base_vs_divided_maxabs": 0.0
+    },
+    {
+      "cfg": "t3",
+      "seed": 45,
+      "gate": 2.871045,
+      "base_vs_divided_maxabs": 0.0
+    },
+    {
+      "cfg": "t3",
+      "seed": 46,
+      "gate": 5.689231,
+      "base_vs_divided_maxabs": 0.0
+    }
+  ],
+  "evaluable_edges": {
+    "t1_cw0.0": {
+      "mean_evaluable_edges_per_path": 0.1733,
+      "mean_adjacent_pairs": 9.0,
+      "share_zero_evaluable": 0.84,
+      "effective_coverage": 0.0193,
+      "n_paths": 1500
+    },
+    "t1_cw0.5": {
+      "mean_evaluable_edges_per_path": 0.0973,
+      "mean_adjacent_pairs": 9.0,
+      "share_zero_evaluable": 0.9047,
+      "effective_coverage": 0.0108,
+      "n_paths": 1500
+    },
+    "t1_cw1.0": {
+      "mean_evaluable_edges_per_path": 0.0473,
+      "mean_adjacent_pairs": 9.0,
+      "share_zero_evaluable": 0.9527,
+      "effective_coverage": 0.0053,
+      "n_paths": 1500
+    },
+    "t3_cw0.0": {
+      "mean_evaluable_edges_per_path": 0.1787,
+      "mean_adjacent_pairs": 9.0,
+      "share_zero_evaluable": 0.83,
+      "effective_coverage": 0.0199,
+      "n_paths": 1500
+    },
+    "t3_cw0.5": {
+      "mean_evaluable_edges_per_path": 0.3527,
+      "mean_adjacent_pairs": 9.0,
+      "share_zero_evaluable": 0.6647,
+      "effective_coverage": 0.0392,
+      "n_paths": 1500
+    },
+    "t3_cw1.0": {
+      "mean_evaluable_edges_per_path": 0.1907,
+      "mean_adjacent_pairs": 9.0,
+      "share_zero_evaluable": 0.8153,
+      "effective_coverage": 0.0212,
+      "n_paths": 1500
+    }
+  },
+  "paired_diffs": {
+    "t3_post_minus_pre_none_cw0": {
+      "per_seed": [
+        0.18975,
+        0.21831,
+        0.22457,
+        0.17012,
+        0.28825
+      ],
+      "mean_lo_hi": [
+        0.2182,
+        0.16244,
+        0.27396
+      ]
+    },
+    "t3_minus_t1_none_cw1": {
+      "per_seed": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mean_lo_hi": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "t3_minus_t1_l2_cw1": {
+      "per_seed": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mean_lo_hi": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  }
+}

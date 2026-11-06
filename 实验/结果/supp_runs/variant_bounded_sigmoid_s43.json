@@ -1,0 +1,13 @@
+{
+  "mode": "variant_bounded_sigmoid",
+  "seed": 43,
+  "best_epoch": 11,
+  "epochs_ran": 19,
+  "gate_best": 0.8688,
+  "gate_at_best": 0.8688,
+  "test_at_best": {
+    "NDCG@10": 0.17376,
+    "HR@10": 0.69767,
+    "MRR": 0.33033
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "rule": "concept Bloom = median over aligned-skill action-verb levels; verb matched by dictionary longest-level; max-aggregation discarded for degenerate distribution",
+  "tau": 0.5,
+  "annotation_type": "weak dictionary mapping, not human annotation",
+  "n_concepts": 576,
+  "covered": 576,
+  "uncovered": 0,
+  "level_distribution": {
+    "1": 0,
+    "2": 0,
+    "3": 121,
+    "4": 54,
+    "5": 209,
+    "6": 192
+  },
+  "skills_with_verb": 632,
+  "skills_total": 684
+}
